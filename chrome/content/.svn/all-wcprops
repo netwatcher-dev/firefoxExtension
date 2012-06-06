@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/studentsvn/tfe_EPL-2011-058/!svn/ver/200/src/module/FirefoxExtension/myn/chrome/content
+END
+options.xul
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/studentsvn/tfe_EPL-2011-058/!svn/ver/200/src/module/FirefoxExtension/myn/chrome/content/options.xul
+END
+browser.xul
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/studentsvn/tfe_EPL-2011-058/!svn/ver/200/src/module/FirefoxExtension/myn/chrome/content/browser.xul
+END
+myn.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/studentsvn/tfe_EPL-2011-058/!svn/ver/200/src/module/FirefoxExtension/myn/chrome/content/myn.js
+END

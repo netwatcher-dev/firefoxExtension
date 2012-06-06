@@ -1,0 +1,12 @@
+#myn-toolbar-button {
+	list-style-image: url("chrome://myn/skin/toolbar-large.png");
+}
+
+#myn-status-bar-icon {
+	width: 83px;
+	margin: 0 5px;
+}
+
+.myn-selected {
+	outline: 2px solid red !important;
+}

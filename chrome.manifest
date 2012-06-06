@@ -1,0 +1,8 @@
+content     myn    chrome/content/
+content     myn    chrome/content/ contentaccessible=yes
+overlay chrome://browser/content/browser.xul chrome://myn/content/browser.xul
+
+locale	myn	en-US	locale/en-US/
+
+skin	myn	classic/1.0	skin/
+style	chrome://global/content/customizeToolbar.xul	chrome://myn/skin/skin.css
